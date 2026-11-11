@@ -4,10 +4,10 @@
   {
    "id": "rogue",
    "name": "더로그 · 개인 시험 서버",
-   "description": "녹사 개인 시험 서버 (49.174.2.173:6114)",
+   "description": "녹사 개인 시험 서버 (49.174.2.173:6112)",
    "icon": "https://raw.githubusercontent.com/nocksa/rogue-helios-feed/main/images/emblem.png",
    "version": "0.2.41",
-   "address": "49.174.2.173:6114",
+   "address": "49.174.2.173:6112",
    "minecraftVersion": "26.2",
    "javaOptions": {
     "supported": ">=25.x",
@@ -197,7 +197,7 @@
      }
     },
     {
-     "id": "rogue:rogueui-0.1.0:0.2.41-personal",
+     "id": "rogue:rogueui-0.1.0:0.2.41-personal6112",
      "name": "rogueui-0.1.0.jar",
      "type": "FabricMod",
      "required": {
@@ -205,8 +205,8 @@
      },
      "artifact": {
       "size": 54895079,
-      "MD5": "b80b5ae3e8d0fdefb11bdff1c1561453",
-      "url": "https://github.com/nocksa/rogue-helios-feed/releases/download/mods/b80b5ae3e8-rogueui-0.1.0-personal.jar",
+      "MD5": "e80bdac08301cd054087a377d51bfe8c",
+      "url": "https://github.com/nocksa/rogue-helios-feed/releases/download/mods/e80bdac083-rogueui-0.1.0-personal.jar",
       "path": "rogueui-0.1.0.jar"
      }
     },
