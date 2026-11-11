@@ -4,10 +4,10 @@
   {
    "id": "rogue",
    "name": "더로그 · 개인 시험 서버",
-   "description": "녹사 개인 시험 서버 (49.174.2.173:6140)",
+   "description": "녹사 개인 시험 서버 (49.174.2.173:6114)",
    "icon": "https://raw.githubusercontent.com/nocksa/rogue-helios-feed/main/images/emblem.png",
    "version": "0.2.41",
-   "address": "49.174.2.173:6140",
+   "address": "49.174.2.173:6114",
    "minecraftVersion": "26.2",
    "javaOptions": {
     "supported": ">=25.x",
