@@ -197,16 +197,16 @@
      }
     },
     {
-     "id": "rogue:rogueui-0.1.0:0.2.41",
+     "id": "rogue:rogueui-0.1.0:0.2.41-personal",
      "name": "rogueui-0.1.0.jar",
      "type": "FabricMod",
      "required": {
       "value": true
      },
      "artifact": {
-      "size": 54988636,
-      "MD5": "d1ad949bd979c062092f1352e898f01d",
-      "url": "https://github.com/nocksa/rogue-launcher-feed/releases/download/mods/fe6a0af584-rogueui-0.1.0.jar",
+      "size": 54895079,
+      "MD5": "b80b5ae3e8d0fdefb11bdff1c1561453",
+      "url": "https://github.com/nocksa/rogue-helios-feed/releases/download/mods/b80b5ae3e8-rogueui-0.1.0-personal.jar",
       "path": "rogueui-0.1.0.jar"
      }
     },
