@@ -1,0 +1,8 @@
+version: 0.1.1
+files:
+  - url: https://github.com/nocksa/rogue-helios-feed/releases/download/app-0.1.1/TheRogue-Personal-Setup-0.1.1.exe
+    sha512: MT9bYDUi8M7EqwaRrGF00gDjqx0DVNGCIEeqJSwIphpFSiGpUGCPSWOxRhNzqzeARZlgCnnBs36dRoX9N4ztEA==
+    size: 100583395
+path: https://github.com/nocksa/rogue-helios-feed/releases/download/app-0.1.1/TheRogue-Personal-Setup-0.1.1.exe
+sha512: MT9bYDUi8M7EqwaRrGF00gDjqx0DVNGCIEeqJSwIphpFSiGpUGCPSWOxRhNzqzeARZlgCnnBs36dRoX9N4ztEA==
+releaseDate: '2026-11-11T09:01:09.124Z'
